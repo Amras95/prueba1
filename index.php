@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
          echo "Esto es una prueba";
+         
+         echo "Esto es el branch pero peligroso";
         ?>
     </body>
 </html>
